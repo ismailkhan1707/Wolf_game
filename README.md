@@ -19,9 +19,3 @@ Built as a learning project to explore animation, rendering, and game loops in R
 - C++
 - Raylib
 
----
-
-## 📁 Status
-✅ **Completed**
-
-🔗 https://github.com/your-username/your-repo-name
